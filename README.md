@@ -1,20 +1,3 @@
-# ArtBook
-
-[![tested with rspec](https://img.shields.io/badge/tested%20with-rspec-brightgreen.svg)](https://github.com/rspec/rspec-rails)
-[![tested with jest](https://facebook.github.io/jest/img/jest-badge.svg)](https://github.com/facebook/jest)
-
-https://artbookapp.herokuapp.com/
-
-ArtBook is a portfolio showcase web application. It is a full-stack app built using a `Ruby on Rails` backend, `PostgreSQL` database, and `React/Redux` front-end architecture.
-
-## Planning & Design
-
-<p align="center">
-<img src="./docs/wireframes/wireframes.jpg" />
-</p>
-<p align="center">
-<a href="https://github.com/anastassia-b/art-book-app/wiki">Design documents can be found in the wiki!</a>
-</p>
 
 ## Technologies
 
